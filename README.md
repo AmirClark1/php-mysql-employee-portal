@@ -37,7 +37,7 @@ This project is a database-backed employee portal web application built with PHP
 
 ## Setup Instructions
 
-1. Install XAMPP or MAMP (for local PHP/MySQL environment)
+1. To run locally on a personal machine, install XAMPP or MAMP (for local PHP/MySQL environment)
 
 2. Start Apache and MySQL
 
