@@ -6,7 +6,6 @@ This project is a **database-backed web application** built with PHP and MySQL. 
 
 This project demonstrates backend development concepts, database integration, and secure coding practices.
 
----
 
 ## What This Project Demonstrates
 
@@ -17,7 +16,6 @@ This project demonstrates backend development concepts, database integration, an
 * CRUD-style operations (user + enrollment data)
 * Full project documentation (SRS, UML, schema)
 
----
 
 ## Features
 
@@ -29,8 +27,6 @@ This project demonstrates backend development concepts, database integration, an
 * Prepared SQL statements
 * Supporting documentation (SRS, UML, screenshots, schema)
 
----
-
 ## Tech Stack
 
 * PHP
@@ -38,7 +34,6 @@ This project demonstrates backend development concepts, database integration, an
 * HTML/CSS
 * SQL
 
----
 
 ## Project Structure
 
@@ -55,8 +50,6 @@ This project demonstrates backend development concepts, database integration, an
 * `Application_Screenshots.pdf`
 * `SRS_EmployeePortal_AmirClark.docx`
 
----
-
 ## Learning Outcomes
 
 * Built a full-stack PHP/MySQL web application
@@ -65,7 +58,6 @@ This project demonstrates backend development concepts, database integration, an
 * Designed relational database schema
 * Created professional software documentation (SRS, UML, etc.)
 
----
 
 ## Running the Project (Optional)
 
@@ -94,14 +86,12 @@ $database = "employee_portal";
 http://localhost/employee-portal/index.php
 ```
 
----
 
 ## Notes
 
 This repository is intended for **portfolio and demonstration purposes**.
 It showcases backend logic, database integration, and application structure.
 
----
 
 ## Author
 
