@@ -35,5 +35,28 @@ This project is a database-backed employee portal web application built with PHP
 - Practiced secure coding concepts such as password hashing and prepared statements
 - Created supporting software engineering documentation including SRS, UML, screenshots, and schema design
 
+## Setup Instructions
+
+1. Install XAMPP or MAMP (for local PHP/MySQL environment)
+
+2. Start Apache and MySQL
+
+3. Place project files inside:
+   - htdocs (XAMPP) OR
+   - MAMP/htdocs
+
+4. Create a MySQL database (example: employee_portal)
+
+5. Import database schema using provided SQL or create tables manually
+
+6. Update database connection in `db_connect.php`:
+
+```php
+$host = "localhost";
+$user = "root";
+$password = "";
+$database = "employee_portal";
+
+
 ## Author
 Amir Clark  (www.linkedin.com/in/amir-clark-a7127731b)  
